@@ -5,3 +5,8 @@ The Bananium Set is a mod that adds a new ore to the game to help you with the e
 Please note that the stats of the weapons are subject to change since nothing in this mod is final at the moment. 
 
 Special Thanks to: TunaCat for sprites.
+
+Patch v0.2: 
+- Fixed armor set recipes
+- Added the requirement to kill the Mech bosses and Plantera in order to use weapons
+- Removed an extra Bananium Bar recipe that was mistakenly added
