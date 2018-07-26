@@ -1,0 +1,7 @@
+The Bananium Set is a mod that adds a new ore to the game to help you with the end game. 
+
+"Bananium" can be obtained once the player has at least a pickaxe axe and can be smelted into bars using an Adamantite Forge. 
+
+Please note that the stats of the weapons are subject to change since nothing in this mod is final at the moment. 
+
+Special Thanks to: TunaCat for sprites.

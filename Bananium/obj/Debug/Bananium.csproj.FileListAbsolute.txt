@@ -1,0 +1,12 @@
+C:\Users\CaptainMario\Documents\My Games\Terraria\ModLoader\Mod Sources\Bananium\bin\Debug\Bananium.dll
+C:\Users\CaptainMario\Documents\My Games\Terraria\ModLoader\Mod Sources\Bananium\bin\Debug\Bananium.pdb
+C:\Users\CaptainMario\Documents\My Games\Terraria\ModLoader\Mod Sources\Bananium\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\CaptainMario\Documents\My Games\Terraria\ModLoader\Mod Sources\Bananium\bin\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\CaptainMario\Documents\My Games\Terraria\ModLoader\Mod Sources\Bananium\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\CaptainMario\Documents\My Games\Terraria\ModLoader\Mod Sources\Bananium\bin\Debug\Microsoft.Xna.Framework.Xact.dll
+C:\Users\CaptainMario\Documents\My Games\Terraria\ModLoader\Mod Sources\Bananium\bin\Debug\Terraria.exe
+C:\Users\CaptainMario\Documents\My Games\Terraria\ModLoader\Mod Sources\Bananium\obj\Debug\Bananium.csprojAssemblyReference.cache
+C:\Users\CaptainMario\Documents\My Games\Terraria\ModLoader\Mod Sources\Bananium\obj\Debug\Bananium.csproj.CoreCompileInputs.cache
+C:\Users\CaptainMario\Documents\My Games\Terraria\ModLoader\Mod Sources\Bananium\obj\Debug\Bananium.csproj.CopyComplete
+C:\Users\CaptainMario\Documents\My Games\Terraria\ModLoader\Mod Sources\Bananium\obj\Debug\Bananium.dll
+C:\Users\CaptainMario\Documents\My Games\Terraria\ModLoader\Mod Sources\Bananium\obj\Debug\Bananium.pdb
